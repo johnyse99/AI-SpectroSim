@@ -59,4 +59,6 @@ Respuesta: El proyecto sigue una arquitectura modular donde los scripts se reesc
 Este proyecto se distribuye bajo la licencia MIT. Su propósito es estrictamente educativo y de investigación, desarrollado como una solución de Data Science Aplicada.
 
 Nota para reclutadores: Este proyecto demuestra mi capacidad para transformar teorías físicas complejas en herramientas digitales funcionales. Mi enfoque no es solo "hacer que el código corra", sino mantener una estructura modular, reproducible y documentada que sea lista para entornos de producción.
+
+Autor: JUAN S.  Contacto: https://github.com/johnyse99
    
