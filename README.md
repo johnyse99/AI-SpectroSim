@@ -28,7 +28,17 @@ El proyecto incluye un panel de control avanzado que compara en tiempo real la *
 * **Distribución de Composición:** Gráfico de tarta dinámico que desglosa la mezcla detectada.
 * **Comparativa Real vs. IA:** Gráfico de barras para validar la precisión del modelo.
 
+📚 Tecnologías Utilizadas
 
+    Python 3.x
+
+    TensorFlow/Keras: Redes neuronales para regresión.
+
+    Streamlit: Framework para la interfaz científica.
+
+    Pandas & Numpy: Manipulación de datos espectrales.
+
+    Plotly: Gráficos interactivos y dinámicos.
 
 ## 💻 Instalación y Uso
 
