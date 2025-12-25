@@ -1,6 +1,9 @@
 # AI-SpectroSim
 Simulador de Espectrometría con Deep Learning
 
+<img width="1879" height="924" alt="preview" src="https://github.com/user-attachments/assets/1f3b012b-f465-40a9-9891-2b1073d17637" />
+
+
 # 🔬 AI-SpectroSim: Simulador de Espectrometría con Deep Learning
 
 ¡Bienvenido a **AI-SpectroSim**! Este proyecto utiliza Redes Neuronales Convencionales (CNN) para identificar y cuantificar la composición química de muestras gaseosas a partir de su firma espectral. 
