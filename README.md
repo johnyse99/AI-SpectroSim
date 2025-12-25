@@ -54,5 +54,6 @@ Respuesta: El proyecto sigue una arquitectura modular donde los scripts se reesc
 
 ## 📄 Licencia
 Este proyecto se distribuye bajo la licencia MIT. Su propósito es estrictamente educativo y de investigación, desarrollado como una solución de Data Science Aplicada para el sector público y financiero.
+
 Nota para reclutadores: Este proyecto demuestra mi capacidad para transformar teorías físicas complejas en herramientas digitales funcionales. Mi enfoque no es solo "hacer que el código corra", sino mantener una estructura modular, reproducible y documentada que sea lista para entornos de producción.
    
