@@ -14,7 +14,7 @@ st.title("🔬 Simulador de Espectrometría con IA")
 @st.cache_resource
 def load_assets():
     model = tf.keras.models.load_model('./models/modelo_espectrometria.h5')
-    elementos = joblib.load('.models/etiquetas_elementos.pkl')
+    elementos = joblib.load('./models/etiquetas_elementos.pkl')
     return model, elementos
 
 model, lista_elementos = load_assets()
@@ -162,3 +162,4 @@ with col2:
     }).set_index("Elemento")
 
     st.bar_chart(df_comp)
+
