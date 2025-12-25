@@ -33,5 +33,7 @@ El proyecto incluye un panel de control avanzado que compara en tiempo real la *
 ## 💻 Instalación y Uso
 
 1. **Clonar el repositorio:**
-   Instalar dependencias: pip install -r requirements.txt
-   Ejecutar la app: streamlit run app.py
+2. **Instalar dependencias: pip install -r requirements.txt**
+3. **Ejecutar la app: streamlit run app.py**
+   
+   
