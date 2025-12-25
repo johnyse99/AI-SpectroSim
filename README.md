@@ -51,4 +51,8 @@ Respuesta: Durante la fase descriptiva, se aplica un ruido normal (np.random.nor
 
 3. ¿Por qué este proyecto es compatible con Streamlit desde su origen?
 Respuesta: El proyecto sigue una arquitectura modular donde los scripts se reescriben completamente para mantener la consistencia, permitiendo que la interfaz web acceda directamente a las funciones de predicción sin dependencias externas complejas.
+
+## 📄 Licencia
+Este proyecto se distribuye bajo la licencia MIT. Su propósito es estrictamente educativo y de investigación, desarrollado como una solución de Data Science Aplicada para el sector público y financiero.
+Nota para reclutadores: Este proyecto demuestra mi capacidad para transformar teorías físicas complejas en herramientas digitales funcionales. Mi enfoque no es solo "hacer que el código corra", sino mantener una estructura modular, reproducible y documentada que sea lista para entornos de producción.
    
