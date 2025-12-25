@@ -43,16 +43,12 @@ El proyecto incluye un panel de control avanzado que compara en tiempo real la *
 
 ## ❓ Preguntas de Entrevista (FAQ)
 Diseñadas para demostrar el dominio técnico del proyecto:
+1. ¿Por qué utilizaste una pérdida MSE en lugar de Cross-Entropy?
+Respuesta: Dado que el objetivo es la regresión (predecir concentraciones continuas del 0 al 1) y no solo clasificar, el error cuadrático medio permite a la IA aprender la distancia numérica exacta entre la realidad y la predicción.
 
-    ¿Por qué utilizaste una pérdida MSE en lugar de Cross-Entropy?
+2. ¿Cómo manejas el ruido en los datos de laboratorio?
+Respuesta: Durante la fase descriptiva, se aplica un ruido normal (np.random.normal) para asegurar que el modelo sea robusto y no se sobreajuste a firmas espectrales perfectas, simulando condiciones reales de sensores.
 
-        Respuesta: Dado que el objetivo es la regresión (predecir concentraciones continuas del 0 al 1) y no solo clasificar, el error cuadrático medio permite a la IA aprender la distancia numérica exacta entre la realidad y la predicción.
-
-    ¿Cómo manejas el ruido en los datos de laboratorio?
-
-        Respuesta: Durante la fase descriptiva, se aplica un ruido normal (np.random.normal) para asegurar que el modelo sea robusto y no se sobreajuste a firmas espectrales perfectas, simulando condiciones reales de sensores.
-
-    ¿Por qué este proyecto es compatible con Streamlit desde su origen?
-
-        Respuesta: El proyecto sigue una arquitectura modular donde los scripts se reescriben completamente para mantener la consistencia, permitiendo que la interfaz web acceda directamente a las funciones de predicción sin dependencias externas complejas.
+3. ¿Por qué este proyecto es compatible con Streamlit desde su origen?
+Respuesta: El proyecto sigue una arquitectura modular donde los scripts se reescriben completamente para mantener la consistencia, permitiendo que la interfaz web acceda directamente a las funciones de predicción sin dependencias externas complejas.
    
